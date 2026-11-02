@@ -16,3 +16,6 @@
 - [Day 12](./Day%2012/)
 - [Day 13](./Day%2013/)
 - [Day 14](./Day%2014/)
+
+# Warehousing Fundamentals
+- [Day 15](./Day%2015/)

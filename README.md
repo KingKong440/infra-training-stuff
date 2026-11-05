@@ -20,3 +20,4 @@
 # Warehousing Fundamentals
 - [Day 15](./Day%2015/)
 - [Day 16](./Day%2016/)
+- [Day 17](./Day%2017/)
